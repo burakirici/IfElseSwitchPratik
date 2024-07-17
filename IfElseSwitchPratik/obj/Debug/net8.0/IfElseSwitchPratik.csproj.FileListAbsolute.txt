@@ -1,0 +1,14 @@
+/Users/burakkirici/Desktop/IfElseSwitchPratik/IfElseSwitchPratik/bin/Debug/net8.0/IfElseSwitchPratik
+/Users/burakkirici/Desktop/IfElseSwitchPratik/IfElseSwitchPratik/bin/Debug/net8.0/IfElseSwitchPratik.deps.json
+/Users/burakkirici/Desktop/IfElseSwitchPratik/IfElseSwitchPratik/bin/Debug/net8.0/IfElseSwitchPratik.runtimeconfig.json
+/Users/burakkirici/Desktop/IfElseSwitchPratik/IfElseSwitchPratik/bin/Debug/net8.0/IfElseSwitchPratik.dll
+/Users/burakkirici/Desktop/IfElseSwitchPratik/IfElseSwitchPratik/bin/Debug/net8.0/IfElseSwitchPratik.pdb
+/Users/burakkirici/Desktop/IfElseSwitchPratik/IfElseSwitchPratik/obj/Debug/net8.0/IfElseSwitchPratik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakkirici/Desktop/IfElseSwitchPratik/IfElseSwitchPratik/obj/Debug/net8.0/IfElseSwitchPratik.AssemblyInfoInputs.cache
+/Users/burakkirici/Desktop/IfElseSwitchPratik/IfElseSwitchPratik/obj/Debug/net8.0/IfElseSwitchPratik.AssemblyInfo.cs
+/Users/burakkirici/Desktop/IfElseSwitchPratik/IfElseSwitchPratik/obj/Debug/net8.0/IfElseSwitchPratik.csproj.CoreCompileInputs.cache
+/Users/burakkirici/Desktop/IfElseSwitchPratik/IfElseSwitchPratik/obj/Debug/net8.0/IfElseSwitchPratik.dll
+/Users/burakkirici/Desktop/IfElseSwitchPratik/IfElseSwitchPratik/obj/Debug/net8.0/refint/IfElseSwitchPratik.dll
+/Users/burakkirici/Desktop/IfElseSwitchPratik/IfElseSwitchPratik/obj/Debug/net8.0/IfElseSwitchPratik.pdb
+/Users/burakkirici/Desktop/IfElseSwitchPratik/IfElseSwitchPratik/obj/Debug/net8.0/IfElseSwitchPratik.genruntimeconfig.cache
+/Users/burakkirici/Desktop/IfElseSwitchPratik/IfElseSwitchPratik/obj/Debug/net8.0/ref/IfElseSwitchPratik.dll
